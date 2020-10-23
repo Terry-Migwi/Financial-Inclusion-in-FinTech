@@ -10,7 +10,7 @@ on the demographic features available. Exploratory Data Analysis has been perfor
 
 ## Instructions
 
-Setup git clone https://github.com/Terry-Migwi/Moringa_Data_Science_Core_W2_Independent_Project_2020_06_Terry_Migwi_Colab_Notebook.git and extract the zip file then open the colab Notebook.
+Setup git clone https://github.com/Terry-Migwi/Financial-Inclusion-in-FinTech.git and extract the zip file then open the colab Notebook.
 
 ## Technologies used.
 
